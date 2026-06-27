@@ -1,0 +1,16 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "date": "2026-04-22",
+      "company": "Armstrong Fluid Technology",
+      "role": "Global Sales Excellence Manager",
+      "score": 4,
+      "status": "Evaluated",
+      "hasPdf": true,
+      "reportSlug": "reports/001-armstrong-fluid-technology-2026-04-22.md",
+      "notes": "Strong skills match; comp unknown — clarify before investing full prep"
+    }
+  ],
+  "exportedAt": "2026-06-27T14:03:04.688Z"
+}
